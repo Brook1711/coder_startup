@@ -235,3 +235,19 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
 
 ![image-20201122162755032](README.assets/image-20201122162755032.png)
 
+## Gitee
+
+[Gitee - 基于 Git 的代码托管和研发协作平台](https://gitee.com/)
+
+本土化github，使用方法和github一样，但是速度更快，而且可以镜像github，如果你有什么项目在clone github上的项目的时候速度太慢，试着先导入到你的gitee中，再从gitee中clone
+
+# 最后
+
+祝福看到这里的你，希望对你有所帮助，如果你有什么经验想要补充，有以下几种方式
+
+1、请在github中的issue中提出来（推荐）
+
+2、github中私信（推荐）
+
+3、fork这个仓库并提交分支
+
