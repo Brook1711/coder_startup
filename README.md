@@ -39,6 +39,10 @@ github学生礼包中包含多种付费服务器、域名、云存储等开发�
 
 https://world.crisp.help/zh/article/clash-for-windows-xvf25w/
 
+乘车码：
+
+<img src="README.assets/image-20201124150350227.png" alt="image-20201124150350227" style="zoom:50%;" />
+
 ## Typora
 
 ![image-20201122153902260](README.assets/image-20201122153902260.png)
@@ -78,6 +82,8 @@ https://world.crisp.help/zh/article/clash-for-windows-xvf25w/
 [百度网盘——百度网盘，让美好永远陪伴 (baidu.com)](https://pan.baidu.com/pcloud/home)
 
 校园邮箱注册OneDrive可以免费领取1TB onedrive网盘空间
+
+https://www.microsoft.com/en-us/microsoft-365/onedrive/graduation
 
 ## 视频播放
 
@@ -182,6 +188,8 @@ https://n3ro.lol/auth/register?code=LWBZ
 ![image-20201122155835912](README.assets/image-20201122155835912.png)
 
 基本上是对新手最友好的第三方库管理软件
+
+下载安装一定要选中“add to path”
 
 ## VS CODE
 
