@@ -131,6 +131,12 @@ https://n3ro.lol/auth/register?code=LWBZ
 
 ![image-20201122155356693](README.assets/image-20201122155356693.png)
 
+## 程序员锻炼
+
+https://leetcode-cn.com/problemset/all/
+
+![image-20201124155159996](README.assets/image-20201124155159996.png)
+
 ## debug常用
 
 [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
@@ -177,7 +183,15 @@ https://n3ro.lol/auth/register?code=LWBZ
 
 [2019年最新中科院 SCI 期刊分区（电气与电子工程） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/113008581)
 
+## 科研工具
 
+### matlab
+
+在北邮资源站上可以找到，一定要用校园邮箱注册
+
+[msca.bupt.edu.cn/Home/IndexPage](http://msca.bupt.edu.cn/Home/IndexPage)
+
+![image-20201124155336341](README.assets/image-20201124155336341.png)
 
 # 生命苦短我用python
 
