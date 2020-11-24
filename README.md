@@ -205,6 +205,8 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
 
 如果安装python库出现bug，python版本确认无误后到该网站下载.whl进行安装。
 
+![image-20201124152728356](README.assets/image-20201124152728356.png)
+
 ## 代码托管平台
 
 相当于一个网盘，只不过这个网盘专门为代码项目工程设计，可以清晰的展示出你的代码修改历史，而且可以对你的每个版本的代码进行对比
