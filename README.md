@@ -269,6 +269,48 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
 
 本土化github，使用方法和github一样，但是速度更快，而且可以镜像github，如果你有什么项目在clone github上的项目的时候速度太慢，试着先导入到你的gitee中，再从gitee中clone
 
+
+
+## 深度学习（python平台）
+
+### 知识基础
+
+斯坦福大学公开课（深度学习）：
+
+https://www.bilibili.com/video/BV1p7411Y7M8?from=search&seid=1139358837651404362
+
+斯坦福大学公开课（强化学习）：
+
+https://www.bilibili.com/video/BV1Nb411s7pP?from=search&seid=8594212891359170813
+
+### tensorflow
+
+https://www.tensorflow.org/
+
+目前大部分已有代码是基于tensorflow1.*版本
+
+tensorflow2.* 版本变化很大，很多tensorflow1.* 版本的代码在2.* 版本下会出现bug，请注意。2.*语法更简单
+
+如果是将来想进公司打工，建议使用tensorflow
+
+官方入门（推荐）：
+
+https://www.tensorflow.org/tutorials
+
+### pytorch
+
+https://pytorch.org/
+
+科研界越来越多的人开始用，建议直接从最新版本开始学习。比tensorflow更简单。
+
+如果是将来想搞科研，想建模仿真，或者刚入门深度学习建议用pytorch
+
+官方入门（推荐）：
+
+https://pytorch.org/tutorials/
+
+
+
 # 最后
 
 祝福看到这里的你，希望对你有所帮助，如果你有什么经验想要补充，有以下几种方式
