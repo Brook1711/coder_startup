@@ -1,6 +1,10 @@
 # coder_startup
 basic skills and experience
 
+![加油，北邮人](README.assets/sMmADFO2X0-5CqjCnHBsXUANQfoCHEmLVHS8a2Rkd3Hof1cw7-EpspgkTS8QEZ8p04cxmsL2col6DcTouNWP-IzYVJ8ZjghCGoe3OHVITlOZ9w6L6HgZbeXuDWCebKR6ZuykcIRlOB-d)
+
+# 加油，北邮人！
+
 # 常用软件
 
 ## GitHub desktop
