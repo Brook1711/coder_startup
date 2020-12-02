@@ -5,6 +5,12 @@ basic skills and experience
 
 # 加油，北邮人！
 
+本篇章结合Typora软件食用口味更佳，最好可以star一下，这样有新内容会直接提醒
+
+先安装github和git，将该仓库克隆到本地、、、或者直接下载包
+
+之后使用Typora打开，可以结合目录看
+
 # 常用软件
 
 ## GitHub desktop
@@ -209,13 +215,51 @@ https://leetcode-cn.com/problemset/all/
 
 下载安装一定要选中“add to path”
 
-## VS CODE
+## IDE
+
+### VS CODE
 
 [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 
 ![image-20201122160441373](README.assets/image-20201122160441373.png)
 
-轻量级但强大的IDE，不仅仅可以搭建python开发环境，还可以配合第三方插件搭建所有语言的开发环境
+轻量级但强大的IDE，不仅仅可以搭建python开发环境，还可以配合第三方插件搭建**所有编程语言**的开发环境
+
+### pycharm
+
+最强大的pythonIDE，没有之一
+
+![image-20201202101030531](README.assets/image-20201202101030531.png)
+
+[下载](https://www.jetbrains.com/pycharm/)
+
+下载分为**专业版**和**社区版**
+
+一般来讲初学者选择社区版即可，涉及到大型网页开发或者一些大型项目请使用专业版
+
+北邮邮箱注册即可享受一年的pycharm专业版
+
+## 网页开发：
+
+### flask
+
+基于python的第三方网页开发库，相比Django更加简单
+
+请使用：
+
+```bash
+pip install flask
+```
+
+安装
+
+### Django
+
+相比flask功能更多，使用更加复杂，小项目建议flask，大项目建议Django
+
+安装方法同样使用pip安装
+
+PS：第三方库基本都是pip或conda，如果嫌下载速度太慢，那就更改他们的配置文件，加入国内镜像。
 
 ## 第三方whl文件
 
