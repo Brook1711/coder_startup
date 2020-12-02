@@ -13,7 +13,49 @@ basic skills and experience
 
 
 
-[TOC]
+目录
+=================
+
+* [coder\_startup](#coder_startup)
+* [加油，北邮人！](#加油北邮人)
+* [常用软件](#常用软件)
+  * [GitHub desktop](#github-desktop)
+  * [clash](#clash)
+  * [Typora](#typora)
+  * [listary](#listary)
+  * [captura](#captura)
+  * [snipaste](#snipaste)
+  * [网盘软件](#网盘软件)
+  * [视频播放](#视频播放)
+  * [notion](#notion)
+* [常用网站](#常用网站)
+  * [科学网站](#科学网站)
+  * [全功能网站](#全功能网站)
+  * [程序员锻炼](#程序员锻炼)
+  * [debug常用](#debug常用)
+  * [北邮微软全家桶](#北邮微软全家桶)
+  * [最强校内资源站](#最强校内资源站)
+  * [科研资源](#科研资源)
+  * [科研工具](#科研工具)
+    * [matlab](#matlab)
+* [生命苦短我用python](#生命苦短我用python)
+  * [anaconda](#anaconda)
+  * [IDE](#ide)
+    * [VS CODE](#vs-code)
+    * [pycharm](#pycharm)
+  * [网页开发：](#网页开发)
+    * [flask](#flask)
+    * [Django](#django)
+  * [第三方whl文件](#第三方whl文件)
+  * [代码托管平台](#代码托管平台)
+    * [github](#github)
+    * [GitHub desktop具体使用方法](#github-desktop具体使用方法)
+  * [Gitee](#gitee)
+  * [深度学习（python平台）](#深度学习python平台)
+    * [知识基础](#知识基础)
+    * [tensorflow](#tensorflow)
+    * [pytorch](#pytorch)
+* [最后](#最后)
 
 
 
