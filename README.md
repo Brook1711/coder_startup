@@ -251,6 +251,22 @@ https://leetcode-cn.com/problemset/all/
 
 ![image-20201124155336341](README.assets/image-20201124155336341.png)
 
+### Adobe Illustrator 2020
+
+花里胡哨的画图软件用于编辑.eps文件，效果如下：
+
+类似素材在以下网址可以找到
+
+https://www.freepik.com/free-vector/vector-isometric-illustration-modern-italian-fast-food-restaurant-with-parking-gas-station_1215851.htm
+
+![IOVmmW-101](README.assets/IOVmmW-101.png)
+
+https://mp.weixin.qq.com/s?__biz=MzA4MjU4MTg2Ng==&mid=100000199&idx=1&sn=229d4bbd7690544d9a9bb1490d5b54a5&chksm=1f82c1c228f548d4d4b2f0c933c29f54d29447dabbddfc450aebad6b5dd04c257ac2ac3c9da9&mpshare=1&scene=23&srcid=121166TFbVHxJX5zadbPdQpC&sharer_sharetime=1607661656932&sharer_shareid=51c7379def612676b672e33b4984750b#rd
+
+### TexStudio
+
+论文编辑软件
+
 # 生命苦短我用python
 
 ## anaconda
